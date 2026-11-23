@@ -1,6 +1,6 @@
 # AGENTS.md — Procedimientos de Entornos de Desarrollo · 1.º DAW
 
-> **Versión:** 1.1.0  
+> **Versión:** 1.2.0  
 > **Fecha:** 23/11/2026  
 > **Repositorio:** bitschips/entornos_dev
 
@@ -72,7 +72,7 @@ Este documento adapta las decisiones operativas de bitschips/digitaliza4 a un cu
 ## 8. Estado del proyecto (23/11/2026)
 
 - Tema 1: teoría completa, actividades, guiones de vídeo e ideas de ampliación; generar HTML/PPTX y `manifest.json` con GitHub Actions.
-- Tema 2: borrador didáctico completo para revisión, con actividades, guiones de vídeos, ampliaciones y diagramas de revisión, sin presentaciones hasta su aprobación.
+- Tema 2: contenido aprobado y publicado como `tema-02.md`, con actividades, guiones de vídeo, ampliaciones, diagramas en `img/` y presentaciones HTML/PPTX autogeneradas.
 - Temas 3–10: estructura de carpetas y planificación inicial, todavía sin teoría desarrollada ni presentaciones.
 
 ### Historial
@@ -81,3 +81,4 @@ Este documento adapta las decisiones operativas de bitschips/digitaliza4 a un cu
 |---|---|---|
 | 1.0.0 | 23/11/2026 | Adaptación de las normas de digitaliza4 para 1.º DAW / ED; índice completo, tema 1 y sincronización incremental. |
 | 1.1.0 | 23/11/2026 | Curso genérico sin adscripción geográfica ni referencias jurídicas; actualizar estado de tema 2. |
+| 1.2.0 | 23/11/2026 | Tema 2 aprobado; publicar su fuente definitiva, diagramas y presentaciones, actualizar enlaces y retirar la versión de revisión. |
