@@ -7,6 +7,12 @@ on:
       - 'temas/**/tema-*.md'
       - 'temas/**/imagenes/**'
       - 'temas/**/img/**'
+      # Excluir recursos independientes de actividades, vídeos y ampliaciones.
+      # La última coincidencia prevalece en filtros de rutas de GitHub Actions.
+      - '!temas/**/actividades/**'
+      - '!temas/**/videos/**'
+      - '!temas/**/ampliaciones/**'
+      - '!temas/**/recursos_revision/**'
       - 'scripts/generar_presentaciones.py'
       - '.github/workflows/actualizar-presentaciones.yml'
   workflow_dispatch:
