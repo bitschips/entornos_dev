@@ -1,6 +1,6 @@
 # Actividad 06. Tres caminos, el mismo resultado
 
-[Índice de actividades](README.md) · [Tema 2 en revisión](../REVISION-tema-02.md)
+[Índice de actividades](README.md) · [Tema 2](../tema-02.md)
 
 **RA1.c–f · Duración:** 45–60 min · **Formato:** grupos de 3.
 

@@ -1,6 +1,6 @@
 # Ideas de vídeos · Tema 2
 
-[Volver al tema 2 en revisión](../REVISION-tema-02.md)
+[Volver al tema 2](../tema-02.md)
 
 Estas fichas contienen **guiones pendientes de producción**; no existen vídeos generados ni enlaces externos verificados.
 

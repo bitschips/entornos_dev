@@ -1,6 +1,6 @@
 # Actividades · Tema 2. Lenguajes, compiladores, intérpretes y máquinas virtuales
 
-[Volver al tema 2 en revisión](../REVISION-tema-02.md)
+[Volver al tema 2](../tema-02.md)
 
 Los enunciados están completos y son **independientes del Markdown teórico**. Modificarlos no debe regenerar presentaciones.
 
@@ -13,6 +13,6 @@ Los enunciados están completos y son **independientes del Markdown teórico**. 
 | 05 | [Diagnosticar errores según la fase](actividad-05-diagnosticar-errores.md) | RA1.c–f |
 | 06 | [Tres caminos, el mismo resultado](actividad-06-comparar-rutas-ejecucion.md) | RA1.c–f |
 
-**Entrega de evidencias:** usar Markdown o el formato aceptado en Aules; adjuntar código fuente, diagramas y capturas legibles, evitando publicar datos personales, contraseñas o información privada. Cada actividad incluye criterios de logro propios.
+**Entrega de evidencias:** usar Markdown o el formato solicitado por el profesor en el aula virtual; adjuntar código fuente, diagramas y capturas legibles, evitando publicar datos personales, contraseñas o información privada. Cada actividad incluye criterios de logro propios.
 
 **Sugerencia metodológica:** 01 → 02–04 en paralelo → 05 → 06 como síntesis. Ajustar duración al equipamiento del aula.

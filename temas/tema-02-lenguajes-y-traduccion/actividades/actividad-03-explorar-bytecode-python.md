@@ -1,6 +1,6 @@
 # Actividad 03. Explorar el bytecode de CPython
 
-[Índice de actividades](README.md) · [Tema 2 en revisión](../REVISION-tema-02.md)
+[Índice de actividades](README.md) · [Tema 2](../tema-02.md)
 
 **RA1.d y RA1.e · Duración:** 50–60 min · **Material:** Python 3 (implementación CPython recomendada).
 

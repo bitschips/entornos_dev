@@ -1,6 +1,6 @@
 # Actividad 01. Clasificar lenguajes sin confundir criterios
 
-[Índice de actividades](README.md) · [Tema 2 en revisión](../REVISION-tema-02.md)
+[Índice de actividades](README.md) · [Tema 2](../tema-02.md)
 
 **RA1.e · Duración orientativa:** 45–55 min · **Agrupamiento:** parejas.
 

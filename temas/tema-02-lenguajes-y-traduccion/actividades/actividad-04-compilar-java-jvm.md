@@ -1,6 +1,6 @@
 # Actividad 04. Java: de .java a .class y JVM
 
-[Índice de actividades](README.md) · [Tema 2 en revisión](../REVISION-tema-02.md)
+[Índice de actividades](README.md) · [Tema 2](../tema-02.md)
 
 **RA1.c–e · Duración:** 50–70 min · **Material:** JDK instalado, terminal.
 

@@ -1,6 +1,6 @@
 # Ampliaciones opcionales · Tema 2
 
-[Volver al tema 2 en revisión](../REVISION-tema-02.md)
+[Volver al tema 2](../tema-02.md)
 
 Estas propuestas son **opcionales y no forman parte de las presentaciones iniciales**:
 

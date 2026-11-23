@@ -1,6 +1,6 @@
 # Actividad 02. Observar las fases de compilación con GCC
 
-[Índice de actividades](README.md) · [Tema 2 en revisión](../REVISION-tema-02.md)
+[Índice de actividades](README.md) · [Tema 2](../tema-02.md)
 
 **RA1.c–d · Duración:** 60–75 min · **Material:** GCC instalado en Linux (o adaptación explícita en otro sistema).
 

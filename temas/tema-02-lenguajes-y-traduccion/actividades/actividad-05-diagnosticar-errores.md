@@ -1,6 +1,6 @@
 # Actividad 05. Diagnosticar problemas según la fase
 
-[Índice de actividades](README.md) · [Tema 2 en revisión](../REVISION-tema-02.md)
+[Índice de actividades](README.md) · [Tema 2](../tema-02.md)
 
 **RA1.c–f · Duración:** 50–60 min · **Material:** ordenador con Python y, si está disponible, GCC o Java.
 
