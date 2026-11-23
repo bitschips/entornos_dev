@@ -1,10 +1,10 @@
 # AGENTS.md — Procedimientos de Entornos de Desarrollo · 1.º DAW
 
-> **Versión:** 1.0.0  
+> **Versión:** 1.1.0  
 > **Fecha:** 23/11/2026  
 > **Repositorio:** bitschips/entornos_dev
 
-Este documento reproduce y adapta las decisiones operativas de bitschips/digitaliza4 al módulo 0487 de 1.º DAW, Comunitat Valenciana. LEER antes de cualquier edición. No confundir esta organización de 10 temas con el índice oficial: los RA1–RA6 sí proceden del RD 405/2023.
+Este documento adapta las decisiones operativas de bitschips/digitaliza4 a un curso **genérico de Entornos de Desarrollo de 1.º DAW**, independiente de una comunidad autónoma, institución o normativa concreta. LEER antes de cualquier edición. Los 10 temas y las referencias RA1–RA6 se utilizan como etiquetas de organización pedagógica, no como citas jurídicas.
 
 ## 1. Fuente única e índice
 
@@ -61,21 +61,23 @@ Este documento reproduce y adapta las decisiones operativas de bitschips/digital
 - Validar rutas, contenido generado, número de diapositivas, huellas, Action y commits. No afirmar que el workflow acabó si no se ha comprobado.
 - No activar GitHub Pages y no publicar ni sobrescribir materiales de otros temas sin necesidad.
 
-## 7. Currículo y enseñanza
+## 7. Enfoque didáctico y enseñanza
 
-- Alinear actividades y contenidos con RA1–RA6 del **Real Decreto 405/2023** y con el **Decreto 114/2025 del Consell**; no confundir 50 horas estatales de enseñanzas mínimas con la duración horaria programada en la Comunitat Valenciana.
+- Organizar actividades y contenidos alrededor de los objetivos de aprendizaje RA1–RA6 como **referencias pedagógicas internas**, sin citar normas jurídicas, autoridades territoriales ni duraciones impuestas por una administración. El curso debe poder reutilizarse en cualquier centro de FP.
 - Desarrollo adaptado a alumnado de 1.º DAW: con profundidad técnica creciente, ejemplos en Python/Java/C cuando proceda, comandos reproducibles en Linux y Windows, conceptos exactos y criterios de evaluación.
 - Las explicaciones de tecnologías y las URLs de herramientas se revisan al crear el contenido. No usar cifras de popularidad o licencias sin fuente.
 - No introducir soluciones completas para todas las actividades en la diapositiva teórica. Preferir una idea principal y esquemas.
 - Cuando se apruebe una regla nueva, actualizar este AGENTS.md y su versión.
 
-## 8. Estado inicial (23/11/2026)
+## 8. Estado del proyecto (23/11/2026)
 
 - Tema 1: teoría completa, actividades, guiones de vídeo e ideas de ampliación; generar HTML/PPTX y `manifest.json` con GitHub Actions.
-- Temas 2–10: estructura de carpetas y planificación mínima enlazada, todavía sin teoría desarrollada ni presentaciones.
+- Tema 2: borrador didáctico completo para revisión, con actividades y diagramas de revisión, sin presentaciones hasta su aprobación.
+- Temas 3–10: estructura de carpetas y planificación inicial, todavía sin teoría desarrollada ni presentaciones.
 
 ### Historial
 
 | Versión | Fecha | Cambio |
 |---|---|---|
 | 1.0.0 | 23/11/2026 | Adaptación de las normas de digitaliza4 para 1.º DAW / ED; índice completo, tema 1 y sincronización incremental. |
+| 1.1.0 | 23/11/2026 | Curso genérico sin adscripción geográfica ni referencias jurídicas; actualizar estado de tema 2. |

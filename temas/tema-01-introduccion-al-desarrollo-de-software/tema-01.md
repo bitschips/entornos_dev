@@ -1,6 +1,6 @@
 # Tema 1. Introducción al desarrollo de software
 
-**Materia:** Entornos de Desarrollo · 1.º DAW · Comunitat Valenciana · módulo 0487  
+**Materia:** Entornos de Desarrollo · 1.º DAW · curso genérico de Formación Profesional  
 **Resultados de aprendizaje:** RA1, criterios a–g · introducción a RA2  
 **Estado:** Versión inicial para revisión en el aula
 

@@ -1,6 +1,6 @@
 # Tema 2. Lenguajes, compiladores, intérpretes y máquinas virtuales
 
-**Módulo:** Entornos de Desarrollo · 1.º DAW · Comunitat Valenciana · código 0487  
+**Materia:** Entornos de Desarrollo · 1.º DAW · curso genérico de Formación Profesional  
 **Resultado de aprendizaje:** RA1 (especialmente criterios c, d, e y f)  
 **Estado:** **Borrador completo en revisión**. No es aún el tema oficial para generar presentaciones.  
 **Conocimientos previos:** Tema 1 (código fuente, proceso, CPU/RAM y primera ejecución).
@@ -277,7 +277,6 @@ No confundir **portabilidad del código fuente** con **portabilidad del ejecutab
 - [Python — documentación de dis](https://docs.python.org/3/library/dis.html).
 - [Python — py_compile](https://docs.python.org/3/library/py_compile.html).
 - [JDK — herramientas javac, java y javap](https://docs.oracle.com/en/java/javase/25/docs/specs/man/index.html).
-- [Real Decreto 405/2023 — módulo 0487](https://www.boe.es/eli/es/rd/2023/05/29/405).
 
 <!-- PRESENTACION:FIN_EXCLUSION -->
 
@@ -285,6 +284,6 @@ No confundir **portabilidad del código fuente** con **portabilidad del ejecutab
 
 ## Control de versiones
 
-- **Versión del contenido:** 0.9.0
+- **Versión del contenido:** 0.9.1
 - **Última actualización:** 23/11/2026
 - **Estado:** Borrador completo para revisión del profesor; no aprobado

@@ -1,13 +1,13 @@
 # Entornos de Desarrollo · 1.º DAW
 
-**Módulo profesional 0487 · Desarrollo de Aplicaciones Web (FP Grado Superior) · Comunitat Valenciana · curso 2026-2027**
+**Asignatura:** Entornos de Desarrollo · 1.º de Desarrollo de Aplicaciones Web (DAW) · Formación Profesional de Grado Superior.
 
-> **Índice didáctico provisional.** Los temas se agrupan por los resultados de aprendizaje (RA) oficiales. La numeración es una propuesta para el aula, **no una numeración normativa**. Solo el tema 1 está desarrollado; los demás enlazan a fichas de planificación, sin presentaciones generadas.
+> **Índice didáctico provisional.** Los temas se agrupan por objetivos y resultados de aprendizaje como guía didáctica. La numeración es una propuesta para organizar el curso, no un temario obligatorio. El tema 1 está publicado con presentaciones; el tema 2 está desarrollado **en revisión**, sin presentaciones aún. Los demás tienen fichas de planificación.
 
 ## Bloque 1. Fundamentos del desarrollo de software · RA1
 
 1. **[Tema 1. Introducción al desarrollo de software](temas/tema-01-introduccion-al-desarrollo-de-software/tema-01.md)** — desarrollado.
-2. [Tema 2. Lenguajes, compiladores, intérpretes y máquinas virtuales](temas/tema-02-lenguajes-y-traduccion/REVISION-tema-02.md) — pendiente.
+2. [Tema 2. Lenguajes, compiladores, intérpretes y máquinas virtuales](temas/tema-02-lenguajes-y-traduccion/REVISION-tema-02.md) — en revisión.
 3. [Tema 3. Ciclo de vida y metodologías ágiles](temas/tema-03-ciclo-de-vida-y-metodologias/REVISION-tema-03.md) — pendiente.
 
 ## Bloque 2. Entornos integrados y herramientas · RA2
@@ -31,6 +31,6 @@
 
 ---
 
-**Referencias normativas:** [Real Decreto 405/2023, módulo 0487](https://www.boe.es/eli/es/rd/2023/05/29/405) y [Decreto 114/2025 del Consell, currículos FP](https://dogv.gva.es/). La concreción de los contenidos y su secuenciación corresponden a la programación didáctica del centro.
+**Enfoque:** curso genérico y reutilizable de Entornos de Desarrollo para 1.º DAW, sin adscripción territorial ni referencias jurídicas específicas.
 
 **Mantenimiento:** [AGENTS.md](AGENTS.md). No se activa GitHub Pages; las diapositivas HTML se consultan mediante visor externo.
