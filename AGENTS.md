@@ -72,7 +72,7 @@ Este documento adapta las decisiones operativas de bitschips/digitaliza4 a un cu
 ## 8. Estado del proyecto (23/11/2026)
 
 - Tema 1: teoría completa, actividades, guiones de vídeo e ideas de ampliación; generar HTML/PPTX y `manifest.json` con GitHub Actions.
-- Tema 2: borrador didáctico completo para revisión, con actividades y diagramas de revisión, sin presentaciones hasta su aprobación.
+- Tema 2: borrador didáctico completo para revisión, con actividades, guiones de vídeos, ampliaciones y diagramas de revisión, sin presentaciones hasta su aprobación.
 - Temas 3–10: estructura de carpetas y planificación inicial, todavía sin teoría desarrollada ni presentaciones.
 
 ### Historial
