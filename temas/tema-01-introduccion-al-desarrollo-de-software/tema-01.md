@@ -227,6 +227,6 @@ El concepto importante no es memorizar una instrucción: es comprender **quién 
 
 ## Control de versiones
 
-- **Versión del contenido:** 1.0.0
+- **Versión del contenido:** 1.0.1
 - **Última actualización:** 23/11/2026
 - **Estado:** Versión inicial para revisión en el aula
