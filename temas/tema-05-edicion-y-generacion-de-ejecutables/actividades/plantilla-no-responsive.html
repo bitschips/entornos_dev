@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <title>Panel de proyectos - plantilla para corregir</title>
+  <!-- ACTIVIDAD: falta la etiqueta meta viewport y hay varios estilos rígidos. -->
+  <style>
+    body { margin: 0; font-family: Arial, sans-serif; background: #f1f5f9; color: #183045; }
+    .contenedor { width: 960px; margin: 0 auto; }
+    header { padding: 24px; background: #154d73; color: white; }
+    nav { display: flex; gap: 28px; padding: 14px 0; }
+    nav a { color: #fff; text-decoration: underline; }
+    main { padding: 22px 0; }
+    h1 { font-size: 46px; }
+    p { font-size: 5vw; line-height: 1.4; }
+    .banner { width: 850px; height: 300px; }
+    .tarjetas { display: flex; gap: 20px; }
+    .tarjeta { background: white; width: 310px; padding: 22px; border: 1px solid #cad6df; }
+    footer { padding: 28px 0; }
+  </style>
+</head>
+<body>
+  <header>
+    <div class="contenedor">
+      <h1>Panel de proyectos</h1>
+      <nav aria-label="Navegación principal">
+        <a href="#frontend">Frontend</a>
+        <a href="#backend">Backend</a>
+        <a href="#pruebas">Pruebas</a>
+      </nav>
+    </div>
+  </header>
+  <main class="contenedor">
+    <img class="banner" src="img/banner-proyectos.svg" alt="Diagrama de desarrollo con edición, pruebas y despliegue">
+    <p>Organiza tus proyectos y consulta sus fases.</p>
+    <section class="tarjetas" aria-label="Áreas del proyecto">
+      <article id="frontend" class="tarjeta">
+        <h2>Frontend</h2>
+        <p>HTML, CSS y componentes visibles.</p>
+      </article>
+      <article id="backend" class="tarjeta">
+        <h2>Backend</h2>
+        <p>Servicios, validación y datos.</p>
+      </article>
+      <article id="pruebas" class="tarjeta">
+        <h2>Pruebas</h2>
+        <p>Verificación y corrección de errores.</p>
+      </article>
+    </section>
+  </main>
+  <footer class="contenedor">
+    <small>Plantilla educativa para la actividad de diseño adaptable.</small>
+  </footer>
+</body>
+</html>

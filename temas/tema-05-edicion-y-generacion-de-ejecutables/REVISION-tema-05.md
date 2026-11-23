@@ -16,6 +16,14 @@
 
 ---
 
+## Actividades propuestas
+
+[Abrir el índice de actividades del tema](actividades/README.md)
+
+Esta primera actividad práctica permite aplicar herramientas de edición e inspección a una página HTML/CSS. El desarrollo teórico completo del tema sigue pendiente.
+
+---
+
 ## Control de versiones
 
 - **Versión del contenido:** 0.1.0

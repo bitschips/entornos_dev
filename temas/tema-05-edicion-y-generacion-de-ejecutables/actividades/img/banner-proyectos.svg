@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="t d">
+<title id="t">Fases de un proyecto de software</title><desc id="d">Tres bloques conectados: edición, pruebas y despliegue</desc>
+<defs><linearGradient id="f" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#113454"/><stop offset="1" stop-color="#1a6d81"/></linearGradient></defs>
+<rect width="1200" height="420" rx="28" fill="url(#f)"/>
+<text x="55" y="84" font-family="Arial,sans-serif" font-size="40" font-weight="700" fill="#ffffff">Un proyecto de desarrollo</text>
+<g font-family="Arial,sans-serif" font-size="31" font-weight="700" fill="#ffffff" text-anchor="middle">
+<rect x="52" y="143" width="292" height="166" rx="22" fill="#1b8799"/><text x="198" y="237">EDICIÓN</text>
+<rect x="451" y="143" width="292" height="166" rx="22" fill="#2f678d"/><text x="597" y="237">PRUEBAS</text>
+<rect x="850" y="143" width="292" height="166" rx="22" fill="#247a75"/><text x="996" y="237">ENTREGA</text>
+</g><g stroke="#e4f3ff" stroke-width="10" stroke-linecap="round" fill="none"><path d="M363 225 H423"/><path d="m414 208 18 17-18 17"/><path d="M762 225 H822"/><path d="m813 208 18 17-18 17"/></g>
+<text x="55" y="367" font-size="22" fill="#e1f3fa" font-family="Arial,sans-serif">Actividad didáctica · Imagen local en formato SVG</text>
+</svg>
