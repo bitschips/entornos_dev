@@ -4,6 +4,10 @@
 
 > **Índice didáctico provisional.** Los temas se agrupan por objetivos y resultados de aprendizaje como guía didáctica. La numeración es una propuesta para organizar el curso, no un temario obligatorio. Los temas 1 y 2 están publicados con materiales y presentaciones; los temas 3–10 tienen fichas de planificación.
 
+## Actividades prácticas
+
+- [Índice general de actividades](actividades/README.md)
+
 ## Bloque 1. Fundamentos del desarrollo de software · RA1
 
 1. **[Tema 1. Introducción al desarrollo de software](temas/tema-01-introduccion-al-desarrollo-de-software/tema-01.md)** — desarrollado.
